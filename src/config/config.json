@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "persistencia1234",
+    "database": "productosStore",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": "persistencia1234",
+    "database": "productosStore_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": "persistencia1234",
+    "database": "productosStore_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
